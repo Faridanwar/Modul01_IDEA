@@ -10,5 +10,11 @@ public class Main {
         boolean tampan = true;
 
         System.out.println(namaDepan + namaTengah + namaBelakang);
+
+
+
+        char[] uniskaChar = {'U' 'N' '1' 'S' 'K' 'A')·
+        String uniskaString = new String(uniskaChar);
+        System.out.println(uniskaString);
     }
 }
